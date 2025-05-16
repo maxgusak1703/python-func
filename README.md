@@ -32,5 +32,5 @@ pip install -r requirements.txt
 ```
 ### 4. Запуск застосунку
 ```bash
-flask run
+python3 main.py
 ```
